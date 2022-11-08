@@ -1,5 +1,3 @@
-# hp.github.io
-
 HamdiPhone Kişisel Web Sitesi
 
 Hızlı Onarım Garantisi Telefonlarınızı 30 dakika ile 48 saat arasında onarıyoruz. 
